@@ -89,28 +89,28 @@
 @media (min-width: 992px) {
 	.col-md-4 {
 	width: 30%;
-  float: left;
-  }
+	float: left;
+  	}
 }
 /*Medium will have 45% width and 93.5% for best alignment*/ 
 @media (min-width: 768px) and (max-width: 991px) {
 	.col-sm-6 {
 	width: 45%;
-  float: left;
-  }
+  	float: left;
+  	}
   
-  .col-sm-12 {
-  width: 93.5%;
-  float: left;
-  }
+  	.col-sm-12 {
+  	width: 93.5%;
+  	float: left;
+  	}
 
 }
 /*Small will have 98% width*/
 @media (max-width: 767px) {
 	.col-xs-12 {
 	width: 98%;
-  float: left;
-  }
+  	float: left;
+  	}
 }
 
 
